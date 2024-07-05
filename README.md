@@ -7,8 +7,8 @@ The code for deploying the NIC framework on AoANet.
 - Python 3.6
 - Java 1.8.0
 - PyTorch 1.7.0
-- cider
-- coco-caption 
+- cider ([link](https://github.com/ruotianluo/cider/tree/dbb3960165d86202ed3c417b412a000fc8e717f3))
+- coco-caption ([link](https://github.com/ruotianluo/coco-caption/tree/dda03fc714f1fcc8e2696a8db0d469d99b881411))
 - tensorboardX
 
 
